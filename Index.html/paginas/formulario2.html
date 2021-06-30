@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Estilo1.css">
+    <title>Formulario</title>
+</head>
+<body>
+    <br>
+        <p id="nombre">Angel Jahaziel Ontiveros Mendez 20170168 "3C"</p>
+    <br>
+    <h1>Alumnos</h1>
+    <hr>
+    <div id="contenedor">
+        <form action="">
+            <fieldset>
+                <legend>Registro de Alumnos</legend>
+                <br>
+                <label for="nombre">Nombre:</label>
+                <input type="text" name="nombre" placeholder="Escribe tu Nombre"><br><br>
+                <label for="fecha">Fecha de Nacimiento:</label>
+                <input type="date" name="fecha"><br><br>
+                <label for="usuario">Usuario:</label>
+                <input type="text" name="user" placeholder="Escribe tu usuario"><br><br>
+                <label for="pass">Password:</label>
+                <input type="password" name="passw" placeholder="Escribe tu contraseña"><br><br>
+                <label for="foto">Foto de perfil:</label>
+                <input type="file" name="foto"><br><br>
+                <label for="ciudad">Ciudad Natal:</label>
+                <select name="ciudad">
+                    <option value="torreon">Torreon</option>
+                    <option value="gomez">Gomez Palacio</option>
+                    <option value="lerdo">Lerdo</option>
+                    <option value="matamoros">Matamoros</option>
+                </select><br><br>
+                <input type="submit" value="Guardar" name="guardarAlumno">
+                <input type="reset" name="limpiarAlumno" value="Limpiar">
+                <button type="reset" name="guardarAlumno2">Guardar</button>
+            </fieldset>
+        </form>
+        <br>
+        <hr>
+    </div>
+    <div id="inicio" class="steelblue">
+        <br>
+        <a href="../inicio.html">Inicio</a><br><br>
+    </div>
+</body>
+</html>

@@ -1,0 +1,96 @@
+#contenedor
+{
+margin: auto;
+width: 80%;
+}
+
+#contenedor1
+{
+margin: auto;
+width: 30%;
+}
+
+#contenedor2
+{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    border: solid;
+    border-color: purple;
+    padding: 10px;
+    color: silver;
+}
+
+#contenedor3
+{
+    border:solid 10px;
+    border-color:blue;
+    width: 50%;
+    margin: auto;
+}
+
+#nombre{text-align: center;}
+
+#inicio
+{
+    text-align: center;
+    border-style: solid ; 
+    width: 10%;margin: auto; 
+}
+
+body.royalblue
+{
+    background-color: royalblue;
+    color: silver;
+}
+
+.size
+{
+    size: 10px;
+    width: 50%;
+}
+
+table{border: solid 1px;}
+
+th{border: solid 1px;}
+
+td{border: solid 1px;}
+
+#th1{text-align: center;}
+
+#index
+{
+    border-style: solid;
+    width: 30%; 
+    margin: auto; 
+    text-align: center;
+}
+
+#bindex{background-color: rgb(212, 212, 212);}
+
+#indexh1{size: 5; width: 80%;}
+
+.aqua{color: #00ffff;}
+.steelblue{color: steelblue;}
+.royalblue{color: royalblue;}
+.bgroyalblue{background-color: royalblue;}
+.blue{color: blue;}
+.slateblue{color: slateblue;}
+.rebeccapurple{color: rebeccapurple;}
+.purple{color: purple;}
+.red{color: red;}
+.bgred{background-color: red;}
+.goldenrod{color: goldenrod;}
+.gold{color: gold;}
+.bggold{background-color: gold;}
+.orangered{color: orangered;}
+.yellow{color: yellow;}
+.bgyellow{background-color: yellow;}
+.bggrey{background-color: grey;}
+.yellowgreen{color: yellowgreen;}
+.seagreen{color: seagreen;}
+.springgreen{color: springgreen;}
+.aquamarine{color: aquamarine;}
+.skyblue{color: skyblue;}
+.silver{color: silver;}
+.black{color: black;}

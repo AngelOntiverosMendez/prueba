@@ -1,0 +1,11 @@
+body{background-color: silver;}
+h1{background-color: steelblue; text-align: center;color: white;}
+#contenedor{width: 80%;margin: auto;border-style: solid;border-color: purple;margin-top: 30px;background-color: seashell;}
+#texto{width: 60%;background-color: slategray;margin: auto;}
+
+.rojo{color: red;}
+.verde{color: green;}
+.azul{color: blue;}
+.amarillo{color: yellow;}
+
+#otro{background-color: snow;width: 40%;margin: auto;border-style: solid;border-color: teal;text-align: center;margin-top: 30px;margin-bottom: 30px;}

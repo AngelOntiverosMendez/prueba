@@ -1,0 +1,203 @@
+nav
+{
+    background-color:rgb(0, 93, 171);
+    font-family: sans-serif;
+    margin: -16px;
+}
+body{background-color: rgb(249, 249, 249);}
+table{background-color: white; border: 0;}
+ul
+{
+    text-align: left;
+    padding: 8px;
+}
+ul li
+{
+    display: inline;
+    color: silver;
+    font-size: 15px;
+    margin-right: 80px;
+}
+a{text-decoration: none;}
+a:visited{color: cornflowerblue;}
+a:hover{color: rgb(0, 77, 142);}
+#check
+{
+    height: 18px;
+    width: 18px;
+    cursor: pointer;
+}
+Input::placeholder 
+{
+    Color: silver;    
+}
+ul li:hover
+{
+    color: white;
+}
+table
+{
+    background-color: b;
+    color: silver;
+}
+#texto
+{
+    background-color: rgb(0, 77, 142);
+    border: none;
+    width: 300px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+.pequeño
+{
+    width: 8%;
+    padding: 10px 10px;
+}
+.grande
+{
+    width: 100%;
+    padding: 12px 80px;
+}
+.mediano{padding: 10px 20px;}
+.mediano1{padding: 10px 35px;}
+#contenedor
+{
+    margin: auto;
+    width: 60%;
+    font-family: sans-serif;
+    color: black;
+}
+#cuadro1
+{
+    background-color: rgb(22, 196, 101);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+#cuadro1:hover
+{
+    background-color: rgb(2, 162, 75);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+#cuadro2
+{
+    width: 350px;
+    border-radius: 5px;
+    padding: 12px;
+    border-color: whitesmoke;
+    border-width: 1px;
+}
+#cuadro3
+{
+    background-color: rgb(0, 93, 171);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    border-width: 1px;
+}
+#cuadro4
+{
+    border-radius: 5px;
+    background-color: white;
+    border-color: rgb(25, 145, 235);
+    font-size: 18px;
+    color: rgb(25, 145, 235);
+    border-width: 1px;
+}
+#cuadro4:hover
+{
+    border-radius: 5px;
+    background-color: white;
+    border-color: rgb(0, 93, 171);
+    background-color: rgb(226, 240, 254);
+    font-size: 18px;
+    color: rgb(0, 93, 171);
+    border-width: 1px;
+}
+#cuadro5
+{
+    border-radius: 5px;
+    background-color: white;
+    border-color: rgb(0, 93, 171);
+    font-size: 19px;
+    color: rgb(0, 93, 171);
+    border-width: 1px;
+    width: 170px;
+    height: 45px;
+}
+#cuadro5:hover
+{
+    border-radius: 5px;
+    background-color: rgb(0, 93, 171);
+    border-color: rgb(0, 93, 171);
+    font-size: 19px;
+    color: white;
+    border-width: 1px;
+    width: 170px;
+    height: 45px;
+}
+#cuadro6
+{
+    border-radius: 5px;
+    background-color: white;
+    border-color: rgb(219, 66, 66);
+    font-size: 18px;
+    color: rgb(219, 66, 66);
+    border-width: 1px;
+    width: 170px;
+    height: 45px;
+}
+#cuadro6:hover
+{
+    border-radius: 5px;
+    background-color: rgb(219, 66, 66);
+    border-color: rgb(219, 66, 66);
+    font-size: 18px;
+    color: white;
+    border-width: 1px;
+    width: 170px;
+    height: 45px;
+}
+#cuadro7
+{
+    border-radius: 5px;
+    background-color: rgb(25, 145, 235);
+    border-color: rgb(25, 145, 235);
+    font-size: 18px;
+    color: white;
+    border-width: 1px;
+}
+#cuadro7:hover
+{
+    border-radius: 5px;
+    background-color: rgb(0, 93, 171);
+    border-color: rgb(0, 93, 171);
+    font-size: 18px;
+    color: white;
+    border-width: 1px;
+}
+#alinear
+{
+    text-align: center;
+    font-size: 15px;
+}
+#label1
+{
+    font-size: 15px;
+}
+#label2{font-size: 10px;}
+#label3
+{
+    font-size: 10px;
+    text-align: center;
+}
+.blanco{color: white;}
+.azul{color: steelblue;}
+.gris{color: grey;}
+.gris1{color: grey; text-align: center;}
+.gris2{color: grey; text-align: center; font-size: 35px;}
+.negro{color: black;}
+
